@@ -37,8 +37,7 @@ A pop-up-based graphical game window with:
 ### ▶ Demo  
 A short video demonstrating the working of the game is available.
 
-🎥 *Watch here:* (Add your video link or LinkedIn link)
-
+🎥 *Watch here:* 
 You can also check out the game and full details in my *[LinkedIn post](https://www.linkedin.com/posts/shahana-m-a-a2113031a_skillcrafttechnology-softwaredevelopment-activity-7338181984726224896-1qJt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDSJLkB3ZmFJto10XX4UoRY3FuwvZv-mNo)*.
 
 
